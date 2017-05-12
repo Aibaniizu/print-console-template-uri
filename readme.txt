@@ -3,7 +3,7 @@
 
 Contributors:
 Plugin Name: Print in the Console Current Template URI
-Plugin URI: http://wordpress.org/extend/plugins/print-console-tempalte-uri/
+Plugin URI: https://github.com/Aibaniizu/print-console-template-uri
 Stable tag: 1.0.0
 Tested up to: 4.7.4
 Author: Tiia Leppänen
@@ -41,7 +41,7 @@ Activate the plugin and when logged in. View console when you need to know curre
 
 == Changelog ==
 
-= 
+ 
 
 = 1.0.0 = 
 Initial release.
